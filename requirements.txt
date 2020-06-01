@@ -19,7 +19,7 @@ requests==2.7.0
 SimpleQIWI==0.7
 six==1.15.0
 telebot==0.0.3
-urllib3==1.23
+urllib3==1.24.2
 uuid==1.30
 uuid0==0.2.7
 virtualenv==20.0.21
